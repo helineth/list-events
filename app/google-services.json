@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "104122587166",
+    "project_id": "arena-eventos",
+    "storage_bucket": "arena-eventos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104122587166:android:22b9efe774b1f7ebc6f60f",
+        "android_client_info": {
+          "package_name": "com.arena.eventos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104122587166-es496v9g3gc5hq6r5llf5tucqso6umbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAPNK-NCxD-jClgssLifnxFZZ9Y5Ix2as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104122587166-es496v9g3gc5hq6r5llf5tucqso6umbs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "104122587166-32e9c95hi1rh8cf33i3o3minlelsch2n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arena.eventos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
